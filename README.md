@@ -1,3 +1,3 @@
-# HTML-starter
-Starting template html
-### Author:Natallia Kamenshchykava
+# Taplink
+Portfolio website for social networks
+### Author: Natallia Kamenshchykava
